@@ -1,0 +1,8 @@
+2025-04-04 07:10:34.442191 - Received CBT.V508.FILE278.PDS from FILE278.XMI 
+2025-04-04 07:10:34.442888 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE278.PDS, moved to PDS/$$$#DATE
+2025-04-04 07:10:34.443031 - Found $$DOC.txt (text/plain) in CBT.V508.FILE278.PDS, moved to PDS/$$DOC
+2025-04-04 07:10:34.443192 - Found @FILE278.txt (text/plain) in CBT.V508.FILE278.PDS, moved to PDS/@FILE278
+2025-04-04 07:10:34.443346 - Found CLISTS.txt (text/plain) in CBT.V508.FILE278.PDS, moved to PDS/CLISTS
+2025-04-04 07:10:34.443600 - Found INSTALL.bin (application/octet-stream) in CBT.V508.FILE278.PDS, moved to PDS/INSTALL
+2025-04-04 07:10:34.443721 - Found PANELS.txt (text/plain) in CBT.V508.FILE278.PDS, moved to PDS/PANELS
+2025-04-04 07:10:34.443848 - Found SKELETON.txt (text/plain) in CBT.V508.FILE278.PDS, moved to PDS/SKELETON
